@@ -10,4 +10,4 @@ Validate "Subscribe to newsletter" feature on Cypress homepage using valid and i
 Validate "Sign Up using Email" feature on Cypress sign up page.
 
 <a href="https://github.com/kaiorampz/QA-Portfolio/blob/main/verifydownloadcypress.cy.js">verifydownloadcypress.cy.js</a><br>
-Download cypress.zip from homepage and confirm if the file was downloaded.
+Download cypress.zip from homepage and confirm if the file was downloaded using `cy-verify-downloads` plugin.
