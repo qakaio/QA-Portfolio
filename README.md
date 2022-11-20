@@ -1,8 +1,8 @@
-# QA-Portfolio
+# Kaio Garcia - QA Portfolio
 
-Some automated test scripts
+Greetings, my name is **Kaio** and I will share below some Quality Assurance projects I've done.
 
-## Cypress Website
+## Test Automation (Cypress)
 <a href="https://github.com/kaiorampz/QA-Portfolio/blob/main/homecypress.cy.js">homecypress.cy.js</a><br>
 Validate "Subscribe to newsletter" feature on Cypress homepage using valid and invalid data.
 
