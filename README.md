@@ -2,6 +2,10 @@
 
 Greetings, my name is **Kaio** and I will share below some Quality Assurance projects I've done.
 
+https://linkedin.com/in/kaiogarcia
+
+kaioricardogarcia@gmail.com
+
 ## Test Automation (Cypress)
 ![Cypress Run](https://im3.ezgif.com/tmp/ezgif-3-aee5d8342d.gif)
 
