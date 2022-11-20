@@ -3,6 +3,7 @@
 Greetings, my name is **Kaio** and I will share below some Quality Assurance projects I've done.
 
 ## Test Automation (Cypress)
+<img src="https://im3.ezgif.com/tmp/ezgif-3-aee5d8342d.gif"></img><br>
 <a href="https://github.com/kaiorampz/QA-Portfolio/blob/main/homecypress.cy.js">homecypress.cy.js</a><br>
 Validate "Subscribe to newsletter" feature on Cypress homepage using valid and invalid data.
 
