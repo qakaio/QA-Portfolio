@@ -4,7 +4,12 @@ Greetings, my name is **Kaio** and I will share below some Quality Assurance pro
 
 ## Test Automation (Cypress)
 <img src="https://im3.ezgif.com/tmp/ezgif-3-aee5d8342d.gif"></img><br>
+<hr>
+>Record key: `cypress --record --key 4f934da0-0f9f-4d7e-92a1-e5080334a2d0`
+<br>
+
 <a href="https://github.com/kaiorampz/QA-Portfolio/blob/main/homecypress.cy.js">homecypress.cy.js</a><br>
+
 Validate "Subscribe to newsletter" feature on Cypress homepage using valid and invalid data.
 
 <a href="https://github.com/kaiorampz/QA-Portfolio/blob/main/signuppagecypress.cy.js">signuppagecypress.cy.js</a><br>
