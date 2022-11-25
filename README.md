@@ -7,7 +7,7 @@ https://linkedin.com/in/kaiogarcia
 kaioricardogarcia@gmail.com
 
 ## Test Automation (Cypress)
-![Cypress Run](https://github.com/kaiorampz/QA-Portfolio/blob/main/cypressautomation.gif)
+![Cypress Run](cypressautomation.gif)
 
 #### **Record key**: `cypress --record --key 4f934da0-0f9f-4d7e-92a1-e5080334a2d0`
 
