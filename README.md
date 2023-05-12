@@ -4,7 +4,7 @@ Greetings, my name is **Kaio** and I will share below some Quality Assurance pro
 
 https://linkedin.com/in/kaiogarcia
 
-kaioricardogarcia@gmail.com
+kaiorampz@gmail.com
 
 ## Test Automation (Cypress)
 ![Cypress Run](cypressautomation.gif)
