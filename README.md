@@ -1,10 +1,10 @@
 # Kaio Garcia - QA Portfolio
 
-Greetings, my name is **Kaio** and I will share below some Quality Assurance projects I've done.
+Greetings, my name is **Kaio** and I will share below some QA Automation projects I've done.
 
-https://linkedin.com/in/kaiogarcia
+https://linkedin.com/in/kaioqa
 
-kaiorampz@gmail.com
+kaioqa@protonmail.com
 
 ## Test Automation (Cypress)
 ![Cypress Run](cypressautomation.gif)
