@@ -1,4 +1,4 @@
-# Kaio Garcia - QA Portfolio
+# Kaio Garcia - QA Portfolio (Work In Progress)
 
 Greetings, my name is **Kaio** and I will share below some QA Automation projects I've done.
 
